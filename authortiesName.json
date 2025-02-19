@@ -1,0 +1,19 @@
+{
+    "authortiesName":[
+        {
+            "id":1,
+            "label":"XYZ Author",
+            "value":"xyz_author"
+        },
+        {
+            "id":2,
+            "label":"ABC Author",
+            "value":"abc_author"
+        },
+        {
+            "id":3,
+            "label":"DEF Author",
+            "value":"def_author"
+        }
+    ]
+}

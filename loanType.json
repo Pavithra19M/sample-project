@@ -1,0 +1,19 @@
+{
+    "loanType":[
+        {
+            "id":1,
+            "label":"Home Loan",
+            "value":"home_loan"
+        },
+        {
+            "id":2,
+            "label":"Vehicle Loan",
+            "value":"vehicle_loan"
+        },
+        {
+            "id":3,
+            "label":"personal Loan",
+            "value":"personal_loan"
+        }
+    ]
+}

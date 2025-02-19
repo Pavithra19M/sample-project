@@ -1,0 +1,24 @@
+{
+    "vehicleType":[
+        {
+            "id":1,
+            "label":"Four Wheeler",
+            "value":"four_wheeler"
+        },
+        {
+            "id":2,
+            "label":"Two Wheeler",
+            "value":"two_wheeler"
+        },
+        {
+            "id":3,
+            "label":"Three Wheeler",
+            "value":"three_wheeler"
+        },
+        {
+            "id":4,
+            "label":"Truck",
+            "value":"truck"
+        }
+    ]
+}
