@@ -3,17 +3,53 @@
         {
             "id":1,
             "label":"XYZ Author",
-            "value":"xyz_author"
+            "value":"xyz_author",
+            "authors":[
+                {
+                    "authorId":1001,
+                    "authorName":"XYZ Author",
+                    "series":"2000XYZ123",
+                    "Address":"Bangalore"
+                },
+                {
+                    "authorId":1002,
+                    "authorName":"CYX Author",
+                    "series":"2001CYX123",
+                    "Address":"Mysore"
+                }
+            ]
         },
         {
             "id":2,
             "label":"ABC Author",
-            "value":"abc_author"
+            "value":"abc_author",
+            "authors":[
+                {
+                    "authorId":2001,
+                    "authorName":"ABC Author",
+                    "series":"1000ABC189",
+                    "Address":"Bangalore"
+                },
+                {
+                    "authorId":2002,
+                    "authorName":"FGR Author",
+                    "series":"1001FGR127",
+                    "Address":"Mysore"
+                }
+            ]
         },
         {
             "id":3,
             "label":"DEF Author",
-            "value":"def_author"
+            "value":"def_author",
+            "authors":[
+                {
+                    "authorId":2003,
+                    "authorName":"DEF Author",
+                    "series":"1000DEF189",
+                    "Address":"Bangalore"
+                }
+            ]
         }
     ]
 }
